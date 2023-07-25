@@ -16,7 +16,7 @@ pub fn main() void {
     if (my_num) |value| {
         stdout.print("my_num={}\n", .{value}) catch return;
     } else |err| switch (err) {
-        NumError.IllegalNumber => return
+        NumError.IllegalNumber => return,
     }
 }
 

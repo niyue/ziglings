@@ -39,5 +39,5 @@ fn twoToThe(number: u16) u16 {
         total *= 2;
     }
 
-    return total; 
+    return total;
 }

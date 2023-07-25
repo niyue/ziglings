@@ -35,7 +35,7 @@ pub fn main() void {
     x = 3;
     lang[1] = letters[x];
 
-    x = 5; 
+    x = 5;
     lang[2] = letters[x];
 
     // We want to "Program in Zig!" of course:

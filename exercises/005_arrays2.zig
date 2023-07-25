@@ -25,7 +25,7 @@ pub fn main() void {
     // (Problem 1)
     // Please set this array concatenating the two arrays above.
     // It should result in: 1 3 3 7
-    const leet =le ++ et; 
+    const leet = le ++ et;
 
     // (Problem 2)
     // Please set this array using repetition.
